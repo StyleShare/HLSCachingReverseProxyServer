@@ -1,0 +1,31 @@
+PODS:
+  - GCDWebServer (3.5.3):
+    - GCDWebServer/Core (= 3.5.3)
+  - GCDWebServer/Core (3.5.3)
+  - PINCache (3.0.1-beta.8):
+    - PINCache/Arc-exception-safe (= 3.0.1-beta.8)
+    - PINCache/Core (= 3.0.1-beta.8)
+  - PINCache/Arc-exception-safe (3.0.1-beta.8):
+    - PINCache/Core
+  - PINCache/Core (3.0.1-beta.8):
+    - PINOperation (~> 1.1.1)
+  - PINOperation (1.1.2)
+
+DEPENDENCIES:
+  - GCDWebServer (~> 3.5)
+  - PINCache (>= 3.0.1-beta.3)
+
+SPEC REPOS:
+  trunk:
+    - GCDWebServer
+    - PINCache
+    - PINOperation
+
+SPEC CHECKSUMS:
+  GCDWebServer: c0ab22c73e1b84f358d1e2f74bf6afd1c60829f2
+  PINCache: 534fd41d358d828dfdf227a0d327f3673a65e20b
+  PINOperation: 24b774353ca248fcf87d67b2d61eef42087c125a
+
+PODFILE CHECKSUM: eccdba0298d185d28e91ef914560e6ab6cbd4b13
+
+COCOAPODS: 1.8.3

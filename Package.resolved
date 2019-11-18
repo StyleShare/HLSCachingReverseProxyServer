@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CwlCatchException",
+        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
+        "state": {
+          "branch": null,
+          "revision": "f809deb30dc5c9d9b78c872e553261a61177721a",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "CwlPreconditionTesting",
+        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
+        "state": {
+          "branch": null,
+          "revision": "02b7a39a99c4da27abe03cab2053a9034379639f",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble.git",
+        "state": {
+          "branch": null,
+          "revision": "50c3f82c3d23af1d6e710226015b3e94b5265f71",
+          "version": null
+        }
+      },
+      {
+        "package": "SafeCollection",
+        "repositoryURL": "https://github.com/devxoul/SafeCollection.git",
+        "state": {
+          "branch": null,
+          "revision": "8ddc40807b203b731a30c3dfd4deb978967d948b",
+          "version": "3.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
