@@ -2,18 +2,18 @@ PODS:
   - GCDWebServer (3.5.3):
     - GCDWebServer/Core (= 3.5.3)
   - GCDWebServer/Core (3.5.3)
-  - PINCache (3.0.1-beta.8):
-    - PINCache/Arc-exception-safe (= 3.0.1-beta.8)
-    - PINCache/Core (= 3.0.1-beta.8)
-  - PINCache/Arc-exception-safe (3.0.1-beta.8):
+  - PINCache (3.0.3):
+    - PINCache/Arc-exception-safe (= 3.0.3)
+    - PINCache/Core (= 3.0.3)
+  - PINCache/Arc-exception-safe (3.0.3):
     - PINCache/Core
-  - PINCache/Core (3.0.1-beta.8):
-    - PINOperation (~> 1.1.1)
-  - PINOperation (1.1.2)
+  - PINCache/Core (3.0.3):
+    - PINOperation (~> 1.2.1)
+  - PINOperation (1.2.1)
 
 DEPENDENCIES:
   - GCDWebServer (~> 3.5)
-  - PINCache (>= 3.0.1-beta.3)
+  - PINCache (~> 3.0)
 
 SPEC REPOS:
   trunk:
@@ -23,9 +23,9 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   GCDWebServer: c0ab22c73e1b84f358d1e2f74bf6afd1c60829f2
-  PINCache: 534fd41d358d828dfdf227a0d327f3673a65e20b
-  PINOperation: 24b774353ca248fcf87d67b2d61eef42087c125a
+  PINCache: 7a8fc1a691173d21dbddbf86cd515de6efa55086
+  PINOperation: 00c935935f1e8cf0d1e2d6b542e75b88fc3e5e20
 
-PODFILE CHECKSUM: eccdba0298d185d28e91ef914560e6ab6cbd4b13
+PODFILE CHECKSUM: 396a8d24399c0a48e03b0b0819f1e2337c395211
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.10.0
