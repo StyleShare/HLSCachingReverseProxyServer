@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.swift_version = "5.1"
 
   s.dependency "GCDWebServer", "~> 3.5"
-  s.dependency "PINCache", ">= 3.0.1-beta.3"
+  s.dependency "PINCache", "~> 3.0"
 
   s.ios.deployment_target = "8.0"
   s.osx.deployment_target = "10.11"
