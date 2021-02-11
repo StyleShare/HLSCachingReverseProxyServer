@@ -12,8 +12,8 @@ jobs:
     env:
       WORKSPACE: HLSCachingReverseProxyServer.xcworkspace
       SCHEME: HLSCachingReverseProxyServer-Package
-      SDK: iphonesimulator13.1
-      DESTINATION: platform=iOS Simulator,name=iPhone 11 Pro,OS=13.1
+      SDK: iphonesimulator
+      DESTINATION: platform=iOS Simulator,name=iPhone 11 Pro,OS=latest
 
     steps:
     - uses: actions/checkout@v1
