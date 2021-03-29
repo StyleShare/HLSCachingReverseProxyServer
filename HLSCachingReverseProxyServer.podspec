@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = "A simple local reverse proxy server for HLS segment cache"
   s.homepage         = "https://github.com/StyleShare/HLSCachingReverseProxyServer"
   s.license          = { :type => "MIT", :file => "LICENSE" }
-  s.author           = { "Suyeol Jeon" => "devxoul@gmail.com" }
+  s.author           = { "StyleShare" => "dev-ios@styleshare.kr" }
   s.source           = { :git => "https://github.com/StyleShare/HLSCachingReverseProxyServer.git",
                          :tag => s.version.to_s }
   s.source_files = "Sources/**/*.{swift,h,m}"
