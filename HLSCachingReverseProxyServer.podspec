@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "HLSCachingReverseProxyServer"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
   s.summary          = "A simple local reverse proxy server for HLS segment cache"
   s.homepage         = "https://github.com/StyleShare/HLSCachingReverseProxyServer"
   s.license          = { :type => "MIT", :file => "LICENSE" }
